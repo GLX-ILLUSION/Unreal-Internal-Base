@@ -1,6 +1,6 @@
 Unreal Internal Base
 =====
-Game example: Greed is Good.
+Game example: Greed is Good - easy to use for any other Unreal SDK Game
 
 This is an internal cheat project for Unreal Engine, with support for CheatGear SDK. The code has been developed in a simple and clean manner, utilizing the MinHook library for hooks. Additionally, the project includes a menu and a configuration system for a customized experience.
 
