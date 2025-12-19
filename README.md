@@ -1,20 +1,101 @@
-Unreal Internal Base
-=====
-Game example: Greed is Good - easy to use for any other Unreal SDK Game
+# Unreal Internal Base
 
-This is an internal cheat project for Unreal Engine, with support for CheatGear SDK. The code has been developed in a simple and clean manner, utilizing the MinHook library for hooks. Additionally, the project includes a menu and a configuration system for a customized experience.
+### Unreal Engine Research & Learning Project
 
-Features
-Simple and Clean Code: The source code has been written in a simple and organized manner, making it easy to understand and maintain.
+**Game reference:** *Greed is Good*
+**Engine:** Unreal Engine
 
-MinHook for Hooks: The MinHook library has been used to efficiently and safely implement hooks.
+---
 
-CheatGear SDK Support: The project includes support for the CheatGear SDK, allowing for the integration of additional functionalities.
+## 📘 Educational Purpose
 
-Integrated Menu: An intuitive menu has been implemented to facilitate interaction and cheat configuration.
+This repository exists **solely for educational, academic, and research purposes**.
 
-Configuration System: Easily customize the cheat through the included configuration system.
+The project is designed to help developers and students **understand Unreal Engine internals**, including:
 
+* Engine architecture and object hierarchy
+* Memory layout concepts
+* Rendering flow
+* SDK interaction
+* Hooking and instrumentation techniques
+* C++ systems programming patterns
+
+This repository **does not promote, endorse, or encourage cheating, exploitation, or unfair gameplay**.
+
+---
+
+## ⚠️ Important Notice
+
+* This project is **not intended for use in online, competitive, or protected environments**
+* No responsibility is taken for misuse of the code
+* Users are expected to respect:
+
+  * Game Terms of Service
+  * End-User License Agreements (EULA)
+  * Local and international laws
+
+All examples are provided **for learning, experimentation, and technical understanding only**.
+
+---
+
+## Project Overview
+
+This repository contains an **internal Unreal Engine research base**, structured to be:
+
+* Clean
+* Readable
+* Modular
+* Easy to study and adapt
+
+It serves as a **technical reference implementation**, demonstrating how Unreal Engine systems can be explored and instrumented in a controlled learning environment.
+
+---
+
+## Technical Highlights
+
+* **Clean & Readable Codebase**
+  Written with clarity and organization, prioritizing maintainability and educational value.
+
+* **MinHook Integration (Demonstration Purpose)**
+  Used to demonstrate common hooking and instrumentation techniques in native applications.
+
+* **SDK Integration Example**
+  Shows how external SDKs can interface with Unreal Engine–based projects.
+
+* **In-Application Menu System**
+  Demonstrates runtime UI interaction and state control.
+
+* **Configuration Management**
+  Illustrates how to persist and manage runtime configuration data.
+
+---
+
+## Legal Disclaimer
+
+This repository:
+
+* Is **not affiliated with Epic Games or any game developer**
+* Does **not contain or distribute proprietary game assets**
+* Does **not provide instructions to bypass protections**
+* Does **not target online services**
+
+All trademarks, game names, and references belong to their respective owners and are mentioned **solely for identification and educational context**.
+
+---
+
+## Contributions
+
+Contributions that improve:
+
+* Code quality
+* Documentation
+* Educational clarity
+* Architecture
+* Safety and best practices
+
+are welcome and appreciated.
+
+---
 ## Show Your Support
 
 Feel free to submit pull requests improvements, bug fixes, or new features. Your contributions are greatly appreciated! 🌟
